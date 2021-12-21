@@ -15,7 +15,7 @@ const categories = [
   ];
 
 function categorySelected(){
-    console.log(`${name} clicked`)
+    console.log("hello")
 }
 
 function Nav() {
